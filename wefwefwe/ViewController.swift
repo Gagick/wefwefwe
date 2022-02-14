@@ -12,6 +12,7 @@ var x = 1
     override func viewDidLoad() {
         super.viewDidLoad()
         x+2
+        x-1
         // Do any additional setup after loading the view.
     }
 
